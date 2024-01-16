@@ -1,15 +1,14 @@
 void main(){
 
-// makeTea("canteen");
-// makeTea("Tea Stall");
+makeTea("canteen");
+makeTea("Tea Stall");
 
-// }
+}
 
-// makeTea(String fromSource,[int numOfTeaCups=1, int sugarAmount =1]){
+makeTea(String fromSource,[int numOfTeaCups=1, int sugarAmount =1]){
   
-//   print("chai lai aya $numOfTeaCups cups $fromSource sai $sugarAmount spoon 
-//
-//cheeni dali hai");
+  print("chai lai aya $numOfTeaCups cups $fromSource sai $sugarAmount spoon 
+cheeni dali hai");
 
 makeTeaNewQuetta(2,isQawa: true);
 
