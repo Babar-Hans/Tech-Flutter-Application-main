@@ -1,0 +1,7 @@
+void main(){
+goodFriend()
+}
+
+goodFriend(){
+
+}
