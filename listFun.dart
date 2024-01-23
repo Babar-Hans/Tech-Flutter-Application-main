@@ -8,5 +8,5 @@ void main(){
 }
 
 forEveryFood(String foods){
-  print("It is Really Tasty $foods")
+  print("It is Really Tasty $foods");
 }
