@@ -9,7 +9,7 @@ List<String> dostlog = ["babar","bilal"];
 
 dostlog.forEach((name){
 print(name);
-});
+})
 
 }
 

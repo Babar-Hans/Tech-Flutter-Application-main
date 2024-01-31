@@ -16,6 +16,6 @@ bool isChaiAvailable(){
   int pattiBori = 2;
   bool isGasAvailable = false;
 
-  return sugarBori >0 && pattiBori > 0 && isGasAvailable;
+  return sugarBori >0 && pattiBori > 0 && isGasAvailable
   
 }

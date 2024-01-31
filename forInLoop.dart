@@ -17,6 +17,6 @@ void main(){
       }
       print(student);
     }
-    print("=====");
+    print("=====")
   }
 }
