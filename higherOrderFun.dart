@@ -7,7 +7,8 @@ Function aikKaam = frieWala;
 bool kaamKiValue = aikKaam();
 print(kaamKiValue);
 
-saamWala(aikKaam);
+var abc = saamWala(aikKaam);
+print(abc);
 
 }
 
@@ -16,7 +17,7 @@ return true;
 }
 
 saamWala(Function kaam){
- return myRes = kaam();
+ return kaam();
 
 }
 //arguement mei function lena && return se function dena HIGHER-ORDER-FUNCTION khilata ha
