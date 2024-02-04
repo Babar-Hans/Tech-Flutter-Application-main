@@ -3,5 +3,8 @@ void main(){
 } 
 
 class Contact{
-  
+  String name = "";
+  String email = "";
+  String phone = "";
+  String address = "";  
 }
