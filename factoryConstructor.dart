@@ -1,5 +1,5 @@
 void main(){
-    Contact contact= Contact();
+    Contact contact= Contact("Babar");
 } 
 
 class Contact{
@@ -7,4 +7,6 @@ class Contact{
   String email = "";
   String phone = "";
   String address = "";  
+
+  Contact(this.name,{this.email="",this.phone = "",this.address =""});
 }
