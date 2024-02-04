@@ -10,4 +10,5 @@ class Contact{
   String address = "";  
 
   Contact(this.name,{this.email="",this.phone = "",this.address =""});
+ 
 }
